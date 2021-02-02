@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.page-logo img{
+	width: 100px;
+    padding-top: 30px;
+}
+
+.local-address h3, .local-address h4, .local-address h5, .subject-line p, .letter-body .land-details {
+	text-align: center;
+}
+.land-details{
+    margin-top: 20px;
+}
+
+.letter-head{
+	margin-top: 10px;
+}
+
+.aarthik-btn p span a{
+    background-color: #2E86C1;
+    padding: 4px 10px;
+    color: #fff;
+    border: 1px solid #2E86C1;
+    border-radius: 5px;
+}
+
+.load-btn p span a{
+    background-color: #1E8449;
+    padding: 4px 10px;
+    color: #fff;
+    border: 1px solid #1E8449;
+    border-radius: 5px;
+}
+
+.print-btn p span a{
+    background-color: #212F3C;
+    padding: 4px 10px;
+    color: #fff;
+    border: 1px solid #212F3C;
+    border-radius: 5px;
+}
+p{
+	font-size: 15px;
+}
+
+.body-content{
+    margin-left: 15px;
+}
+.date p, .letter-body .approval-sign p{
+	text-align: right;
+}
+
+.subject-line{
+	margin: 20px 0;
+}
+
+.letter-body{
+    margin-bottom: 50px;
+}
+.letter-body p{
+	text-align: justify;
+}
+
+table{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+table, td, th{
+    border: 1px solid #808080;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
+}
